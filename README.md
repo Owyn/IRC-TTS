@@ -3,6 +3,7 @@
 Autohotkey script ( http://autohotkey.com/ ) который читает сообщения IRC-чата клиента NetTalk ( http://www.ntalk.de/Nettalk/en/ )
 
 Инструкция:
+
 1. Устанавливаем Autohotkey и NetTalk
 2. Устанавливаем голоса IVONA 2 Tatyana, IVONA 2 Maxim OEM, IVONA 2 Salli, IVONA 2 Justin (находим их в интернете) (или используем стандартные\другие)
 3. Заходим на свой IRC канал (Twitch инструкция https://help.twitch.tv/customer/portal/articles/1302780-twitch-irc )
