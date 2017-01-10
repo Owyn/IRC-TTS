@@ -1,0 +1,6 @@
+#NewScriptBegin TTS
+ 
+Sub Chan_Msg(Text, Nick, Channel, FrameID, ConnID)
+ MsgBox Text, 0
+End Sub
+
